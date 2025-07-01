@@ -1,5 +1,6 @@
 # Polars Prompt
 
+[![CI Status](https://img.shields.io/github/actions/workflow/status/esadek/polars-prompt/ci.yml)](https://github.com/esadek/polars-prompt/actions/workflows/ci.yml)
 ![Supported Python Versions](https://img.shields.io/badge/python-3.9+-blue)
 [![License](https://img.shields.io/github/license/esadek/polars-prompt)](LICENSE)
 
