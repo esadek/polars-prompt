@@ -28,6 +28,11 @@ dependencies = [
     "pygments>=2.19.2",
 ]
 
+[project.urls]
+Homepage = "https://github.com/esadek/polars-prompt"
+Repository = "https://github.com/esadek/polars-prompt.git"
+Issues = "https://github.com/esadek/polars-prompt/issues"
+
 [project.scripts]
 polars-prompt = "polars_prompt.main:main"
 
