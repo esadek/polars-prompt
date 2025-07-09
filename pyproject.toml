@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.9"
 license = "MIT"
 license-files = ["LICENSE"]
+keywords = ["polars", "cli", "prompt", "dataframe"]
 dependencies = [
     "polars>=1.31.0",
     "prompt-toolkit>=3.0.51",
